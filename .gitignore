@@ -4,3 +4,10 @@ redbot/io/.env
 test.py
 venv
 __pycache__
+redbot/redbot/__pycache__
+redbot/redbot/botdb/__pycache__
+redbot/redbot/brains/__pycache__
+redbot/redbot/brains/handlers/__pycache__
+redbot/redbot/io/__pycache__
+redbot/redbot/io/vklib/__pycache__
+redbot/redbot/brains/helpers/__pycache__
