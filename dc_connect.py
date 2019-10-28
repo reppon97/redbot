@@ -1,3 +1,3 @@
-from redbot.io import discord
+from redbot.io.discord import on_message
 
-dc = discord.D
+pass
