@@ -1,0 +1,5 @@
+.idea
+redbot/config.py
+redbot/io/.env
+test.py
+venv
